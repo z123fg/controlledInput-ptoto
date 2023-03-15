@@ -1,0 +1,11 @@
+.App{
+  display: flex;
+  justify-content: center;
+}
+
+.controlledInput{
+  border: 1px solid lightgray;
+  min-width:500px;
+  min-height:30px;
+  font-size: 30px;
+}
